@@ -1,2 +1,2 @@
 # git-tutorial
-tutorial of github by  srikanth
+Tutorial of github by srikanth telkalapally 
